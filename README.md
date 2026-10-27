@@ -2,7 +2,7 @@
 
 DeepBinary evaluates AI agents on open-ended vulnerability discovery in Windows kernel binaries. Each task assigns an agent one primary binary on a fixed Windows build. The agent receives no vulnerability report, designated entry point, seed proof of concept, or expected bug count; it decides where to investigate, tests hypotheses, and documents candidate findings with reproducing inputs and root-cause evidence.
 
-The benchmark measures sustained binary analysis across models and agent setups under controlled output-token budgets. Raw discovery reports are tracked separately from later reproduction and duplicate review. The current study covers 12 primary Windows kernel targets on build 26100.7462.
+The benchmark measures sustained binary analysis across models and agent setups under controlled output-token budgets. Raw discovery reports are tracked separately from later reproduction and duplicate review. The current study covers 12 primary Windows kernel targets.
 
 ## Submission rules
 
