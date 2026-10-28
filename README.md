@@ -7,6 +7,7 @@
     <a href="https://smlijun.github.io/">Dongjun Kim</a>,
     <a href="https://lingming.cs.illinois.edu/index.html">Lingming Zhang</a>
   </p>
+  <p>University of Illinois Urbana-Champaign</p>
   <p><sup>*</sup> Equal contribution</p>
   <p align="center">
     <a href="https://deepbinary.so/"><img src="https://img.shields.io/badge/Leaderboard-Live-f97316?style=for-the-badge" alt="Leaderboard"></a>
